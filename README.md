@@ -1,4 +1,4 @@
-# -Cryptojacking-Detection-for-Host-based-Systems-in-Cloud-Environments
+# Cryptojacking-Detection-for-Host-based-Systems-in-Cloud-Environments
 
 ## Team members
 
